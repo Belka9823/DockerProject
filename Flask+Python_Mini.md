@@ -107,3 +107,11 @@ docker run -d --name my-running-app -p 8082:5000 my-flask-app
 ```
 
 <img width="512" height="72" alt="изображение" src="https://github.com/user-attachments/assets/1b4ce997-c643-4e66-a556-f8a3846202cc" />
+
+### 7. Проверка работы
+
+[Откройте браузер и перейдите по адресу http://localhost:8082](http://localhost:8082)
+
+<img width="494" height="101" alt="изображение" src="https://github.com/user-attachments/assets/415c62b3-4c70-4b0b-bbad-daebb28ccc54" />
+
+> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
