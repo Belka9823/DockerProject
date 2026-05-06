@@ -6,7 +6,6 @@
 * [Nginx_static.md](./Nginx_static.md)
 * [Pascal.md](./Pascal.md)
 * [Python.md](./Python.md)
-* [README.md](./README.md)
 * [Ruby.md](./Ruby.md)
 * [Rust.md](./Rust.md)
 * [TypeScript.md](./TypeScript.md)
